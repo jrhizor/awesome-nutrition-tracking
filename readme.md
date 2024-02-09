@@ -2,7 +2,7 @@
 
 > A curated list of awesome resources for nutrition tracking.
 
-If you think a tracker, library, or database should be added, please create an issue or add a 👍 (:+1:) to an existing issue.
+If you think link should be added, please create an issue or add a 👍 to an existing issue.
 
 
 ## Contents
@@ -69,7 +69,7 @@ Databases and apis that contain nutrition information.
 
 ## Defunct
 
-Nutrition trackers that are not maintained or no longer exist. Links to articles or Internet Archives about defunct trackers.
+Articles or archived sites for defunct or unmaintained nutrition trackers.
 
 - [FitMeal](https://www.vice.com/en/article/53dz98/text-this-number-to-see-how-unhealthy-your-lunch-was)
 - [KaleKam](https://www.wxyz.com/news/kalekam-app-aims-to-turn-healthy-eating-into-social-game)
