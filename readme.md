@@ -35,7 +35,8 @@ Free and paid nutrition trackers.
 - [Ultre](https://ultre.ai/) - Health tracking mobile app.
 - [Lolo](https://apps.apple.com/us/app/lolo-ai-food-calorie-tracker/id6448986851?l=en) - AI food and calorie tracker.
 - [Foodvisor](https://www.foodvisor.io/en/) - Nutrition tracking mobile app.
-- [SnapCalorie](https://www.snapcalorie.com/) - Photo-based nutrition mobile app. 
+- [SnapCalorie](https://www.snapcalorie.com/) - Photo-based nutrition mobile app.
+- [SnackFolio](https://www.snackfolio.com/) - Simple calorie and macro tracker with offline support.
 
 
 ## Open Source Tools
