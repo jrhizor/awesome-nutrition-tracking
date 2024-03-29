@@ -49,7 +49,7 @@ Libraries, tools, and open source apps for nutrition tracking.
 - [Calories-In](https://github.com/vangelov/calories-in) - React meal plan editor.
 - [Food Image Recognition](https://github.com/MaharshSuryawala/Food-Image-Recognition) - Jupyter notebook for identifying foods in images.
 - [Food Recipe CNN](https://github.com/Murgio/Food-Recipe-CNN) - Food image to recipe Jupyter notebook.
-
+- [DietCli](https://github.com/hstsethi/dietcli) - Blazingly fast, commmand line nutrition tracker written in C++.
 
 ## Food Databases
 
