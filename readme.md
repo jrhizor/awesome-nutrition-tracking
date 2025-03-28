@@ -17,6 +17,7 @@ If you think link should be added, please create an issue or add a 👍 to an ex
 Free and paid nutrition trackers.
 
 - [MyFitnessPal](https://www.myfitnesspal.com/) - Most popular calorie tracking app.
+- [Reset.com](https://www.reset.com/) - Makes intermittent fasting easy.
 - [MealByMeal](https://www.mealbymeal.com) - Easy calorie and macro tracking over SMS.
 - [meals.chat](https://meals.chat/) - Take photos to track meals over Telegram.
 - [NutritionX](https://www.nutritionix.com/app) - Nutrition tracking mobile app.
