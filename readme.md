@@ -34,6 +34,9 @@ Free and paid nutrition trackers.
 - [Rex](https://www.rex.fit/) - Calorie and exercise tracking over WhatsApp.
 - [Ultre](https://ultre.ai/) - Health tracking mobile app.
 - [Lolo](https://apps.apple.com/us/app/lolo-ai-food-calorie-tracker/id6448986851?l=en) - AI food and calorie tracker.
+- [Daily Dozen](https://nutritionfacts.org/daily-dozen/) - Plant-based food group tracker based on Dr. Greger's daily nutrition recommendations.
+- [Forks Over Knives Meal Planner](https://www.forksoverknives.com/meal-planner/) - Whole-food, plant-based meal planning with recipes, grocery lists, and nutritional information.
+- [Veganify](https://veganify.app/) - Barcode scanner that checks whether products are vegan by analyzing ingredients.
 - [Foodvisor](https://www.foodvisor.io/en/) - Nutrition tracking mobile app.
 - [SnapCalorie](https://www.snapcalorie.com/) - Photo-based nutrition mobile app.
 - [SnackFolio](https://www.snackfolio.com/) - Simple calorie and macro tracker with offline support.
@@ -43,7 +46,7 @@ Free and paid nutrition trackers.
 
 Libraries, tools, and open source apps for nutrition tracking.
 
-- [OpenFoodFacts App](https://github.com/openfoodfacts/smooth-app) - Flutter mobile food database.
+- [OpenFoodFacts App](https://github.com/openfoodfacts/smooth-app) - Flutter mobile food database with barcode scanning, vegan/vegetarian/palm oil-free labels, and Nutri-Score ratings.
 - [wger](https://github.com/wger-project/wger) - Django nutrition and weight tracker.
 - [kcal](https://github.com/kcal-app/kcal) - PHP food journal.
 - [Calories-In](https://github.com/vangelov/calories-in) - React meal plan editor.
