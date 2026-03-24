@@ -54,6 +54,7 @@ Libraries, tools, and open source apps for nutrition tracking.
 - [Food Recipe CNN](https://github.com/Murgio/Food-Recipe-CNN) - Food image to recipe Jupyter notebook.
 - [DietCli](https://github.com/hstsethi/dietcli) - Blazingly fast, commmand line nutrition tracker written in C++.
 - [Waistline](https://github.com/davidhealey/waistline) - Rich Android app for calorie tracking with OpenFoodFacts integration and barcode scanning. CSV and JSON data export.
+- [Bloodboy](https://github.com/mizoloff/bloodboy) - Privacy-first browser-based blood test tracker with local storage and visualization.
 
 ## Food Databases
 
