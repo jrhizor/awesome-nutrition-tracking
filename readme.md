@@ -40,6 +40,7 @@ Free and paid nutrition trackers.
 - [Foodvisor](https://www.foodvisor.io/en/) - Nutrition tracking mobile app.
 - [SnapCalorie](https://www.snapcalorie.com/) - Photo-based nutrition mobile app.
 - [SnackFolio](https://www.snackfolio.com/) - Simple calorie and macro tracker with offline support.
+- [MealThinker](https://mealthinker.com) - AI meal planner that remembers your preferences, dietary needs, and kitchen inventory to suggest personalized meals.
 
 
 ## Open Source Tools
