@@ -16,32 +16,32 @@ If you think link should be added, please create an issue or add a 👍 to an ex
 
 Free and paid nutrition trackers.
 
-- [MyFitnessPal](https://www.myfitnesspal.com/) - Most popular calorie tracking app.
-- [Reset.com](https://www.reset.com/) - Makes intermittent fasting easy.
-- [MealByMeal](https://www.mealbymeal.com) - Easy calorie and macro tracking over SMS.
-- [meals.chat](https://meals.chat/) - Take photos to track meals over Telegram.
-- [NutritionX](https://www.nutritionix.com/app) - Nutrition tracking mobile app.
 - [Bitesnap](https://www.getbitesnap.com/) - Image based food logging mobile app.
-- [Cronometer](https://cronometer.com/) - Food and activity tracker mobile app.
-- [FatSecret](https://apps.apple.com/us/app/calorie-counter-by-fatsecret/id347184248) - Calorie tracker mobile app.
-- [MyNetDiary](https://www.mynetdiary.com/) - Mobile app for calorie tracking.
-- [LifeSum](https://lifesum.com/) - Calorie tracking mobile app that focuses on lifestyle changes.
-- [MacroFactor](https://macrofactorapp.com/) - Adaptive mobile app for nutrition tracking.
-- [Noom](https://www.noom.com/) - Expensive, CBT-based nutrition and health mobile app.
-- [Cronometer](https://cronometer.com/) - Mobile app for calorie and exercise tracking.
-- [Lose It](https://www.loseit.com/) - Calorie and macro tracking mobile app.
 - [Calory](https://calory.app/) - Simple mobile app for calorie tracking.
-- [Track Calories](https://track-calories.com/) - AI-based calorie tracking mobile app.
-- [Rex](https://www.rex.fit/) - Calorie and exercise tracking over WhatsApp.
-- [Ultre](https://ultre.ai/) - Health tracking mobile app.
-- [Lolo](https://apps.apple.com/us/app/lolo-ai-food-calorie-tracker/id6448986851?l=en) - AI food and calorie tracker.
+- [Cronometer](https://cronometer.com/) - Food and activity tracker mobile app.
+- [Cronometer](https://cronometer.com/) - Mobile app for calorie and exercise tracking.
 - [Daily Dozen](https://nutritionfacts.org/daily-dozen/) - Plant-based food group tracker based on Dr. Greger's daily nutrition recommendations.
-- [Forks Over Knives Meal Planner](https://www.forksoverknives.com/meal-planner/) - Whole-food, plant-based meal planning with recipes, grocery lists, and nutritional information.
-- [Veganify](https://veganify.app/) - Barcode scanner that checks whether products are vegan by analyzing ingredients.
+- [DishRoll](https://dishroll.netlify.app/) - AI-powered weekly meal planning PWA. Generates personalized meal plans with recipes and smart shopping lists based on dietary preferences.
+- [FatSecret](https://apps.apple.com/us/app/calorie-counter-by-fatsecret/id347184248) - Calorie tracker mobile app.
 - [Foodvisor](https://www.foodvisor.io/en/) - Nutrition tracking mobile app.
-- [SnapCalorie](https://www.snapcalorie.com/) - Photo-based nutrition mobile app.
-- [SnackFolio](https://www.snackfolio.com/) - Simple calorie and macro tracker with offline support.
+- [Forks Over Knives Meal Planner](https://www.forksoverknives.com/meal-planner/) - Whole-food, plant-based meal planning with recipes, grocery lists, and nutritional information.
+- [LifeSum](https://lifesum.com/) - Calorie tracking mobile app that focuses on lifestyle changes.
+- [Lolo](https://apps.apple.com/us/app/lolo-ai-food-calorie-tracker/id6448986851?l=en) - AI food and calorie tracker.
+- [Lose It](https://www.loseit.com/) - Calorie and macro tracking mobile app.
+- [MacroFactor](https://macrofactorapp.com/) - Adaptive mobile app for nutrition tracking.
+- [meals.chat](https://meals.chat/) - Take photos to track meals over Telegram.
 - [MealThinker](https://mealthinker.com) - AI meal planner that remembers your preferences, dietary needs, and kitchen inventory to suggest personalized meals.
+- [MyFitnessPal](https://www.myfitnesspal.com/) - Most popular calorie tracking app.
+- [MyNetDiary](https://www.mynetdiary.com/) - Mobile app for calorie tracking.
+- [Noom](https://www.noom.com/) - Expensive, CBT-based nutrition and health mobile app.
+- [NutritionX](https://www.nutritionix.com/app) - Nutrition tracking mobile app.
+- [Reset.com](https://www.reset.com/) - Makes intermittent fasting easy.
+- [Rex](https://www.rex.fit/) - Calorie and exercise tracking over WhatsApp.
+- [SnackFolio](https://www.snackfolio.com/) - Simple calorie and macro tracker with offline support.
+- [SnapCalorie](https://www.snapcalorie.com/) - Photo-based nutrition mobile app.
+- [Track Calories](https://track-calories.com/) - AI-based calorie tracking mobile app.
+- [Ultre](https://ultre.ai/) - Health tracking mobile app.
+- [Veganify](https://veganify.app/) - Barcode scanner that checks whether products are vegan by analyzing ingredients.
 
 
 ## Open Source Tools
@@ -54,6 +54,7 @@ Libraries, tools, and open source apps for nutrition tracking.
 - [Calories-In](https://github.com/vangelov/calories-in) - React meal plan editor.
 - [Food Image Recognition](https://github.com/MaharshSuryawala/Food-Image-Recognition) - Jupyter notebook for identifying foods in images.
 - [Food Recipe CNN](https://github.com/Murgio/Food-Recipe-CNN) - Food image to recipe Jupyter notebook.
+- [Food You](https://github.com/maksimowiczm/FoodYou) - A free, open-source, and privacy-focused food diary and nutrition tracker.
 - [DietCli](https://github.com/hstsethi/dietcli) - Blazingly fast, commmand line nutrition tracker written in C++.
 - [Waistline](https://github.com/davidhealey/waistline) - Rich Android app for calorie tracking with OpenFoodFacts integration and barcode scanning. CSV and JSON data export.
 
@@ -80,6 +81,7 @@ Articles or archived sites for defunct or unmaintained nutrition trackers.
 
 - [FitMeal](https://www.vice.com/en/article/53dz98/text-this-number-to-see-how-unhealthy-your-lunch-was)
 - [KaleKam](https://www.wxyz.com/news/kalekam-app-aims-to-turn-healthy-eating-into-social-game)
+- [MealByMeal](https://www.mealbymeal.com) - Easy calorie and macro tracking over SMS.
 
 
 ## Contribute
