@@ -21,7 +21,6 @@ Free and paid nutrition trackers.
 - [Cronometer](https://cronometer.com/) - Food and activity tracker mobile app.
 - [Cronometer](https://cronometer.com/) - Mobile app for calorie and exercise tracking.
 - [Daily Dozen](https://nutritionfacts.org/daily-dozen/) - Plant-based food group tracker based on Dr. Greger's daily nutrition recommendations.
-- [DishRoll](https://dishroll.netlify.app/) - AI-powered weekly meal planning PWA. Generates personalized meal plans with recipes and smart shopping lists based on dietary preferences.
 - [FatSecret](https://apps.apple.com/us/app/calorie-counter-by-fatsecret/id347184248) - Calorie tracker mobile app.
 - [Foodvisor](https://www.foodvisor.io/en/) - Nutrition tracking mobile app.
 - [Forks Over Knives Meal Planner](https://www.forksoverknives.com/meal-planner/) - Whole-food, plant-based meal planning with recipes, grocery lists, and nutritional information.
