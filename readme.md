@@ -56,6 +56,9 @@ Libraries, tools, and open source apps for nutrition tracking.
 - [Food You](https://github.com/maksimowiczm/FoodYou) - A free, open-source, and privacy-focused food diary and nutrition tracker.
 - [DietCli](https://github.com/hstsethi/dietcli) - Blazingly fast, commmand line nutrition tracker written in C++.
 - [Waistline](https://github.com/davidhealey/waistline) - Rich Android app for calorie tracking with OpenFoodFacts integration and barcode scanning. CSV and JSON data export.
+        - [openfoodfacts-python](https://github.com/openfoodfacts/openfoodfacts-python) - Python client for OpenFoodFacts nutrition database and API.
+
+- [openfoodfacts-python](https://github.com/openfoodfacts/openfoodfacts-python) - Python client for OpenFoodFacts nutrition database and API.
 
 ## Food Databases
 
