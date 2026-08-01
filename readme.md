@@ -33,6 +33,7 @@ Free and paid nutrition trackers.
 - [MyFitnessPal](https://www.myfitnesspal.com/) - Most popular calorie tracking app.
 - [MyNetDiary](https://www.mynetdiary.com/) - Mobile app for calorie tracking.
 - [Noom](https://www.noom.com/) - Expensive, CBT-based nutrition and health mobile app.
+- [Nutilz Calorie Deficit Calculator](https://nutilz.com/calorie-deficit-calculator) - Free web calculator for daily calorie deficit/surplus based on TDEE, goal weight, and activity level. No signup required.
 - [NutritionX](https://www.nutritionix.com/app) - Nutrition tracking mobile app.
 - [Reset.com](https://www.reset.com/) - Makes intermittent fasting easy.
 - [Rex](https://www.rex.fit/) - Calorie and exercise tracking over WhatsApp.
