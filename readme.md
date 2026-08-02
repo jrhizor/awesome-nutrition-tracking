@@ -65,6 +65,7 @@ Databases and apis that contain nutrition information.
 
 - [USDA FoodData Central](https://fdc.nal.usda.gov/) - Free government database and api for nutrition information on a variety of branded and basic foods.
 - [OpenFoodFacts](https://world.openfoodfacts.org/) - Free crowdsourced database of food products.
+- [NutrientsDB](https://www.nutrientsdb.com/) - Nutrition database with nearly 3 million foods, 86 nutrients, standard units, and global coverage.
 - [ESHA](https://esha.com/products/nutrition-database-api/) - Nutrition database API.
 - [Zestful](https://zestfuldata.com/) - API to turn plain recipe strings into structured JSON.
 - [Spoonacular](https://spoonacular.com/) - Nutrition and recipe API.
