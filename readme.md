@@ -33,6 +33,7 @@ Free and paid nutrition trackers.
 - [MyFitnessPal](https://www.myfitnesspal.com/) - Most popular calorie tracking app.
 - [MyNetDiary](https://www.mynetdiary.com/) - Mobile app for calorie tracking.
 - [Noom](https://www.noom.com/) - Expensive, CBT-based nutrition and health mobile app.
+- [Nutilz Calorie Deficit Calculator](https://nutilz.com/calorie-deficit-calculator) - Free web calculator for daily calorie deficit/surplus based on TDEE, goal weight, and activity level. No signup required.
 - [NutritionX](https://www.nutritionix.com/app) - Nutrition tracking mobile app.
 - [Reset.com](https://www.reset.com/) - Makes intermittent fasting easy.
 - [Rex](https://www.rex.fit/) - Calorie and exercise tracking over WhatsApp.
@@ -52,9 +53,11 @@ Libraries, tools, and open source apps for nutrition tracking.
 - [wger](https://github.com/wger-project/wger) - Django nutrition and weight tracker.
 - [kcal](https://github.com/kcal-app/kcal) - PHP food journal.
 - [Calories-In](https://github.com/vangelov/calories-in) - React meal plan editor.
+- [Chompass](https://codeberg.org/fitguy/Chompass) - Calorie tracker; local-first diary, optional BYOK AI and local Gemma LLM inference, open JSON export.
 - [Food Image Recognition](https://github.com/MaharshSuryawala/Food-Image-Recognition) - Jupyter notebook for identifying foods in images.
 - [Food Recipe CNN](https://github.com/Murgio/Food-Recipe-CNN) - Food image to recipe Jupyter notebook.
 - [Food You](https://github.com/maksimowiczm/FoodYou) - A free, open-source, and privacy-focused food diary and nutrition tracker.
+- [WonderFood](https://github.com/vaddisrinivas/wonderfood) - Local-first Android food workspace for inventory, recipes, meal planning, receipts, shopping, and reviewable AI proposals.
 - [DietCli](https://github.com/hstsethi/dietcli) - Blazingly fast, commmand line nutrition tracker written in C++.
 - [Waistline](https://github.com/davidhealey/waistline) - Rich Android app for calorie tracking with OpenFoodFacts integration and barcode scanning. CSV and JSON data export.
 
@@ -65,6 +68,7 @@ Databases and apis that contain nutrition information.
 - [USDA FoodData Central](https://fdc.nal.usda.gov/) - Free government database and api for nutrition information on a variety of branded and basic foods.
 - [OpenFoodFacts](https://world.openfoodfacts.org/) - Free crowdsourced database of food products.
 - [DietlyAPI](https://www.getdietly.com/api) - Food & nutrition API with 4.2M+ foods, macros, micronutrients and barcode lookup; free tier with instant key.
+- [NutrientsDB](https://www.nutrientsdb.com/) - Nutrition database.
 - [ESHA](https://esha.com/products/nutrition-database-api/) - Nutrition database API.
 - [Zestful](https://zestfuldata.com/) - API to turn plain recipe strings into structured JSON.
 - [Spoonacular](https://spoonacular.com/) - Nutrition and recipe API.
