@@ -35,6 +35,7 @@ Free and paid nutrition trackers.
 - [Noom](https://www.noom.com/) - Expensive, CBT-based nutrition and health mobile app.
 - [Nutilz Calorie Deficit Calculator](https://nutilz.com/calorie-deficit-calculator) - Free web calculator for daily calorie deficit/surplus based on TDEE, goal weight, and activity level. No signup required.
 - [NutritionX](https://www.nutritionix.com/app) - Nutrition tracking mobile app.
+- [Olivka](https://olivka.app/) - Calorie and macro tracking over WhatsApp, Messenger, Telegram, and Instagram from a photo, voice note, or text. English and Polish.
 - [Oneizar](https://oneizar.com) - Free macro calculator for fat loss, muscle gain, and body recomposition; AI builds meals hitting your macro targets from your own food database.
 - [Reset.com](https://www.reset.com/) - Makes intermittent fasting easy.
 - [Rex](https://www.rex.fit/) - Calorie and exercise tracking over WhatsApp.
