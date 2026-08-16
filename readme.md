@@ -16,6 +16,7 @@ If you think link should be added, please create an issue or add a 👍 to an ex
 
 Free and paid nutrition trackers.
 
+- [AskCalories](https://askcalories.com) - AI photo and voice calorie and macro tracker.
 - [Bitesnap](https://www.getbitesnap.com/) - Image based food logging mobile app.
 - [Calory](https://calory.app/) - Simple mobile app for calorie tracking.
 - [Cronometer](https://cronometer.com/) - Food and activity tracker mobile app.
