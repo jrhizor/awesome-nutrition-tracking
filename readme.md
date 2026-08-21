@@ -32,6 +32,7 @@ Free and paid nutrition trackers.
 - [MealThinker](https://mealthinker.com) - AI meal planner that remembers your preferences, dietary needs, and kitchen inventory to suggest personalized meals.
 - [MyFitnessPal](https://www.myfitnesspal.com/) - Most popular calorie tracking app.
 - [MyNetDiary](https://www.mynetdiary.com/) - Mobile app for calorie tracking.
+- [NOMS](https://nomsbot.com/) - Telegram bot and mini app that logs meals from a photo, voice note, or text description; tracks calories, macros, and fiber in 13 languages.
 - [Noom](https://www.noom.com/) - Expensive, CBT-based nutrition and health mobile app.
 - [Nutilz Calorie Deficit Calculator](https://nutilz.com/calorie-deficit-calculator) - Free web calculator for daily calorie deficit/surplus based on TDEE, goal weight, and activity level. No signup required.
 - [NutritionX](https://www.nutritionix.com/app) - Nutrition tracking mobile app.
