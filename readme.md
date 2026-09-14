@@ -18,6 +18,7 @@ Free and paid nutrition trackers.
 
 - [Bitesnap](https://www.getbitesnap.com/) - Image based food logging mobile app.
 - [Calory](https://calory.app/) - Simple mobile app for calorie tracking.
+- [CareClinic](https://careclinic.io/nutrition-tracker/) - Mobile app for meal, nutrition, symptom, and mood tracking.
 - [Cronometer](https://cronometer.com/) - Food and activity tracker mobile app.
 - [Cronometer](https://cronometer.com/) - Mobile app for calorie and exercise tracking.
 - [Daily Dozen](https://nutritionfacts.org/daily-dozen/) - Plant-based food group tracker based on Dr. Greger's daily nutrition recommendations.
