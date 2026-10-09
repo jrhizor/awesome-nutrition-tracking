@@ -23,6 +23,7 @@ Free and paid nutrition trackers.
 - [Cronometer](https://cronometer.com/) - Mobile app for calorie and exercise tracking.
 - [Daily Dozen](https://nutritionfacts.org/daily-dozen/) - Plant-based food group tracker based on Dr. Greger's daily nutrition recommendations.
 - [FatSecret](https://apps.apple.com/us/app/calorie-counter-by-fatsecret/id347184248) - Calorie tracker mobile app.
+- [FitNomoBot](https://t.me/Fitnomobot) - Free calorie tracker over Telegram and MAX that also estimates 26 micronutrients, scans barcodes, and credits logged workouts back to the daily budget.
 - [Foodvisor](https://www.foodvisor.io/en/) - Nutrition tracking mobile app.
 - [Forks Over Knives Meal Planner](https://www.forksoverknives.com/meal-planner/) - Whole-food, plant-based meal planning with recipes, grocery lists, and nutritional information.
 - [LifeSum](https://lifesum.com/) - Calorie tracking mobile app that focuses on lifestyle changes.
@@ -43,6 +44,7 @@ Free and paid nutrition trackers.
 - [Rex](https://www.rex.fit/) - Calorie and exercise tracking over WhatsApp.
 - [SnackFolio](https://www.snackfolio.com/) - Simple calorie and macro tracker with offline support.
 - [SnapCalorie](https://www.snapcalorie.com/) - Photo-based nutrition mobile app.
+- [Tastetrace](https://tastetrace.netlify.app/) - Food & symptom tracker that finds trigger patterns after ~2 weeks. Ingredient-level logging, built by someone who struggled with journals.
 - [Track Calories](https://track-calories.com/) - AI-based calorie tracking mobile app.
 - [Tract](https://tract.health) - AI gut-health coach with food, symptom, and bowel-movement tracking for IBD, IBS, and elimination diets.
 - [Ultre](https://ultre.ai/) - Health tracking mobile app.
@@ -73,7 +75,6 @@ Databases and apis that contain nutrition information.
 - [OpenFoodFacts](https://world.openfoodfacts.org/) - Free crowdsourced database of food products.
 - [DietlyAPI](https://www.getdietly.com/api) - Food & nutrition API with 4.2M+ foods, macros, micronutrients and barcode lookup; free tier with instant key.
 - [NutrientsDB](https://www.nutrientsdb.com/) - Nutrition database.
-- [Barcodepedia](https://barcodepedia.com/) - Free product encyclopedia indexed by barcode, with ingredients, allergens and nutrition per product, every value cited to its source.
 - [ESHA](https://esha.com/products/nutrition-database-api/) - Nutrition database API.
 - [Zestful](https://zestfuldata.com/) - API to turn plain recipe strings into structured JSON.
 - [Spoonacular](https://spoonacular.com/) - Nutrition and recipe API.
@@ -83,6 +84,8 @@ Databases and apis that contain nutrition information.
 - [Samsung Food Recipe Nutrition Calculator](https://samsungfood.com/recipe-nutrition-calculator/) - Nutrition calculator for recipes.
 - [Documenu](https://rapidapi.com/restaurantmenus/api/documenu) - Restaurant menu API.
 - [TheMealDB](https://www.themealdb.com/) - Small meal and recipe database and API.
+- [Barcodepedia](https://barcodepedia.com/) - Free product encyclopedia indexed by barcode, with ingredients, allergens and nutrition per product, every value cited to its source.
+- [Noms API](https://noms.sh) - REST API for nutrition data: 3.7M foods and 298K brands across 230 countries, 177 nutrients, 3.4M barcodes and 566K food images. Free tier, no card.
 
 
 ## Defunct
