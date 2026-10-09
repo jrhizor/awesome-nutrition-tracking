@@ -75,6 +75,7 @@ Databases and apis that contain nutrition information.
 - [OpenFoodFacts](https://world.openfoodfacts.org/) - Free crowdsourced database of food products.
 - [DietlyAPI](https://www.getdietly.com/api) - Food & nutrition API with 4.2M+ foods, macros, micronutrients and barcode lookup; free tier with instant key.
 - [NutrientsDB](https://www.nutrientsdb.com/) - Nutrition database.
+- [Noms API](https://noms.sh) - REST API for nutrition data: 3.7M foods and 298K brands across 230 countries, 177 nutrients, 3.4M barcodes and 566K food images. Free tier, no card.
 - [ESHA](https://esha.com/products/nutrition-database-api/) - Nutrition database API.
 - [Zestful](https://zestfuldata.com/) - API to turn plain recipe strings into structured JSON.
 - [Spoonacular](https://spoonacular.com/) - Nutrition and recipe API.
