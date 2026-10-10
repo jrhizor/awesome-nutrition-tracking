@@ -87,6 +87,7 @@ Databases and apis that contain nutrition information.
 - [TheMealDB](https://www.themealdb.com/) - Small meal and recipe database and API.
 - [Barcodepedia](https://barcodepedia.com/) - Free product encyclopedia indexed by barcode, with ingredients, allergens and nutrition per product, every value cited to its source.
 - [Noms API](https://noms.sh) - REST API for nutrition data: 3.7M foods and 298K brands across 230 countries, 177 nutrients, 3.4M barcodes and 566K food images. Free tier, no card.
+- [foodindex.co](https://foodindex.co/) - Search a product, ingredient, additive or supplement for straight answers on allergens, diets and E-numbers, backed by real data and cited evidence. Includes a free recipe nutrition calculator that turns plain-language ingredients into calories, protein and other macros per serving.
 
 
 ## Defunct
