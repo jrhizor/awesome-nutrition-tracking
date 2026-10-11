@@ -42,6 +42,7 @@ Free and paid nutrition trackers.
 - [Oneizar](https://oneizar.com) - Free macro calculator for fat loss, muscle gain, and body recomposition; AI builds meals hitting your macro targets from your own food database.
 - [Reset.com](https://www.reset.com/) - Makes intermittent fasting easy.
 - [Rex](https://www.rex.fit/) - Calorie and exercise tracking over WhatsApp.
+- [SavorAI](https://savorai.org/) - Full-featured calorie tracking mobile app with AI emphasis (photo, voice, or text logging) that tracks detailed nutrients with high accuracy.
 - [SnackFolio](https://www.snackfolio.com/) - Simple calorie and macro tracker with offline support.
 - [SnapCalorie](https://www.snapcalorie.com/) - Photo-based nutrition mobile app.
 - [Tastetrace](https://tastetrace.netlify.app/) - Food & symptom tracker that finds trigger patterns after ~2 weeks. Ingredient-level logging, built by someone who struggled with journals.
