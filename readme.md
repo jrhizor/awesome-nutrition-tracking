@@ -63,6 +63,7 @@ Libraries, tools, and open source apps for nutrition tracking.
 - [kcal](https://github.com/kcal-app/kcal) - PHP food journal.
 - [Calories-In](https://github.com/vangelov/calories-in) - React meal plan editor.
 - [Chompass](https://codeberg.org/fitguy/Chompass) - Calorie tracker; local-first diary, optional BYOK AI and local Gemma LLM inference, open JSON export.
+- [fitatu-api](https://github.com/Jezue/fitatu_library) - Unofficial Python client and MCP server for the Fitatu calorie counter: read and log meals, macros, weight and water.
 - [Food Image Recognition](https://github.com/MaharshSuryawala/Food-Image-Recognition) - Jupyter notebook for identifying foods in images.
 - [Food Recipe CNN](https://github.com/Murgio/Food-Recipe-CNN) - Food image to recipe Jupyter notebook.
 - [Food You](https://github.com/maksimowiczm/FoodYou) - A free, open-source, and privacy-focused food diary and nutrition tracker.
