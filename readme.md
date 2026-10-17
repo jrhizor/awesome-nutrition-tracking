@@ -27,6 +27,7 @@ Free and paid nutrition trackers.
 - [FitNomoBot](https://t.me/Fitnomobot) - Free calorie tracker over Telegram and MAX that also estimates 26 micronutrients, scans barcodes, and credits logged workouts back to the daily budget.
 - [Foodvisor](https://www.foodvisor.io/en/) - Nutrition tracking mobile app.
 - [Forks Over Knives Meal Planner](https://www.forksoverknives.com/meal-planner/) - Whole-food, plant-based meal planning with recipes, grocery lists, and nutritional information.
+- [Food Scan Genius](https://foodscangenius.com/) - AI-powered food scanner and ingredient analyzer for dietary tracking.
 - [Healify](https://healify.ai/) - Free AI health coach for iPhone and Android that logs meals, reads health data, and answers health questions.
 - [LifeSum](https://lifesum.com/) - Calorie tracking mobile app that focuses on lifestyle changes.
 - [Lolo](https://apps.apple.com/us/app/lolo-ai-food-calorie-tracker/id6448986851?l=en) - AI food and calorie tracker.
@@ -40,6 +41,7 @@ Free and paid nutrition trackers.
 - [Noom](https://www.noom.com/) - Expensive, CBT-based nutrition and health mobile app.
 - [Nutilz Calorie Deficit Calculator](https://nutilz.com/calorie-deficit-calculator) - Free web calculator for daily calorie deficit/surplus based on TDEE, goal weight, and activity level. No signup required.
 - [NutritionX](https://www.nutritionix.com/app) - Nutrition tracking mobile app.
+- [NutriGraphAPI](https://nutrigraphapi.com/) - API providing detailed food intelligence, nutrient breakdowns, and ingredient analysis.
 - [Olivka](https://olivka.app/) - Calorie and macro tracking over WhatsApp, Messenger, Telegram, and Instagram from a photo, voice note, or text. English and Polish.
 - [Oneizar](https://oneizar.com) - Free macro calculator for fat loss, muscle gain, and body recomposition; AI builds meals hitting your macro targets from your own food database.
 - [Reset.com](https://www.reset.com/) - Makes intermittent fasting easy.
