@@ -18,6 +18,7 @@ Free and paid nutrition trackers.
 
 - [Ampsu](https://ampsu.eu/) - Food diary with European barcode scanning and calorie targets that adjust from logged intake and weight trends.
 - [Bitesnap](https://www.getbitesnap.com/) - Image based food logging mobile app.
+- [CalDesk AI](https://caldeskai.com/) - AI-powered calorie and macro tracker with photo-based food logging and a free TDEE/macro calculator.
 - [Calory](https://calory.app/) - Simple mobile app for calorie tracking.
 - [CareClinic](https://careclinic.io/nutrition-tracker/) - Mobile app for meal, nutrition, symptom, and mood tracking.
 - [Cronometer](https://cronometer.com/) - Food and activity tracker mobile app.
