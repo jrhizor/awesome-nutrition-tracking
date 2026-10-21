@@ -35,6 +35,7 @@ Free and paid nutrition trackers.
 - [MacroFactor](https://macrofactorapp.com/) - Adaptive mobile app for nutrition tracking.
 - [meals.chat](https://meals.chat/) - Take photos to track meals over Telegram.
 - [MealThinker](https://mealthinker.com) - AI meal planner that remembers your preferences, dietary needs, and kitchen inventory to suggest personalized meals.
+- [Mealyno](https://www.mealyno.com/en) - AI meal planner and calorie tracker: 7-day meal plans for your calorie target, photo and barcode logging, and free TDEE, BMR, macro and protein calculators with no signup. English and Ukrainian.
 - [MyFitnessPal](https://www.myfitnesspal.com/) - Most popular calorie tracking app.
 - [MyNetDiary](https://www.mynetdiary.com/) - Mobile app for calorie tracking.
 - [NOMS](https://nomsbot.com/) - Telegram bot and mini app that logs meals from a photo, voice note, or text description; tracks calories, macros, and fiber in 13 languages.
