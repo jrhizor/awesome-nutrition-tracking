@@ -17,6 +17,7 @@ If you think link should be added, please create an issue or add a 👍 to an ex
 Free and paid nutrition trackers.
 
 - [Ampsu](https://ampsu.eu/) - Food diary with European barcode scanning and calorie targets that adjust from logged intake and weight trends.
+- [BetterMenu](https://bettermenu.live/) - Recipe nutrition analysis and FDA Nutrition Facts labels for food businesses, built on USDA FoodData Central with the math shown for every value. Connects to Claude and ChatGPT over MCP, so you can build recipes and labels from a chat.
 - [Bitesnap](https://www.getbitesnap.com/) - Image based food logging mobile app.
 - [CalDesk AI](https://caldeskai.com/) - AI-powered calorie and macro tracker with photo-based food logging and a free TDEE/macro calculator.
 - [Calory](https://calory.app/) - Simple mobile app for calorie tracking.
