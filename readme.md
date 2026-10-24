@@ -37,6 +37,7 @@ Free and paid nutrition trackers.
 - [MealThinker](https://mealthinker.com) - AI meal planner that remembers your preferences, dietary needs, and kitchen inventory to suggest personalized meals.
 - [Mealyno](https://www.mealyno.com/en) - AI meal planner and calorie tracker: 7-day meal plans for your calorie target, photo and barcode logging, and free TDEE, BMR, macro and protein calculators with no signup. English and Ukrainian.
 - [MyFitnessPal](https://www.myfitnesspal.com/) - Most popular calorie tracking app.
+- [NadY](https://apps.apple.com/us/app/nady-ai-calorie-photo-track/id6740164035) - AI-powered photo calorie counter & macro tracker with Bento UI, intermittent fasting timer, and Apple HealthKit integration.
 - [MyNetDiary](https://www.mynetdiary.com/) - Mobile app for calorie tracking.
 - [NOMS](https://nomsbot.com/) - Telegram bot and mini app that logs meals from a photo, voice note, or text description; tracks calories, macros, and fiber in 13 languages.
 - [Noom](https://www.noom.com/) - Expensive, CBT-based nutrition and health mobile app.
@@ -70,6 +71,7 @@ Libraries, tools, and open source apps for nutrition tracking.
 - [Food Image Recognition](https://github.com/MaharshSuryawala/Food-Image-Recognition) - Jupyter notebook for identifying foods in images.
 - [Food Recipe CNN](https://github.com/Murgio/Food-Recipe-CNN) - Food image to recipe Jupyter notebook.
 - [Food You](https://github.com/maksimowiczm/FoodYou) - A free, open-source, and privacy-focused food diary and nutrition tracker.
+- [FoodVisionAI](https://github.com/UniversalSDK/FoodVisionAI-iOS) - Lightweight AI food vision & macro nutrition pipeline for iOS (SwiftUI + Apple HealthKit + Multimodal LLMs).
 - [WonderFood](https://github.com/vaddisrinivas/wonderfood) - Local-first Android food workspace for inventory, recipes, meal planning, receipts, shopping, and reviewable AI proposals.
 - [DietCli](https://github.com/hstsethi/dietcli) - Blazingly fast, commmand line nutrition tracker written in C++.
 - [Waistline](https://github.com/davidhealey/waistline) - Rich Android app for calorie tracking with OpenFoodFacts integration and barcode scanning. CSV and JSON data export.
