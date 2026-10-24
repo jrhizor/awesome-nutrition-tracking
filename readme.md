@@ -17,6 +17,7 @@ If you think link should be added, please create an issue or add a 👍 to an ex
 Free and paid nutrition trackers.
 
 - [Ampsu](https://ampsu.eu/) - Food diary with European barcode scanning and calorie targets that adjust from logged intake and weight trends.
+- [BetterMenu](https://bettermenu.live/) - Recipe nutrition analysis and FDA Nutrition Facts labels for food businesses, built on USDA FoodData Central with the math shown for every value. Connects to Claude and ChatGPT over MCP, so you can build recipes and labels from a chat.
 - [Bitesnap](https://www.getbitesnap.com/) - Image based food logging mobile app.
 - [CalDesk AI](https://caldeskai.com/) - AI-powered calorie and macro tracker with photo-based food logging and a free TDEE/macro calculator.
 - [Calory](https://calory.app/) - Simple mobile app for calorie tracking.
@@ -98,6 +99,7 @@ Databases and apis that contain nutrition information.
 - [foodindex.co](https://foodindex.co/) - Search a product, ingredient, additive or supplement for straight answers on allergens, diets and E-numbers, backed by real data and cited evidence. Includes a free recipe nutrition calculator that turns plain-language ingredients into calories, protein and other macros per serving.
 - [FiberUp Fiber Database](https://fiberup.app/data/) - Dietary fiber for ~200 common foods per serving and per 100 g, with a soluble and insoluble split. CSV and JSON on [GitHub](https://github.com/acalise/fiber-database) (CC BY 4.0) and a no-auth JSON API.
 - [India Label Index](https://huggingface.co/datasets/devnarsinghani/india-label-index) - Category level tables built from Indian packaged foods on Open Food Facts, no brands named. Covers added sugar names in 3,798 ingredient lists, which fat 2,015 lists name (palm oil and others), and front‑of‑pack warning simulations. CSV and JSON, ODbL, free download with no login.
+- [BetterMenu US Food Search](https://bettermenu.live/tools/ingredient-search/us/foods/) - Free search of 13,259 USDA foods and 455,458 branded products from FoodData Central. Every food shows nutrition facts and %DV per serving, rounded the way an FDA label rounds them, with the math shown. No login.
 
 
 ## Defunct
