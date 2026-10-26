@@ -73,6 +73,7 @@ Libraries, tools, and open source apps for nutrition tracking.
 - [Food Recipe CNN](https://github.com/Murgio/Food-Recipe-CNN) - Food image to recipe Jupyter notebook.
 - [Food You](https://github.com/maksimowiczm/FoodYou) - A free, open-source, and privacy-focused food diary and nutrition tracker.
 - [FoodVisionAI](https://github.com/UniversalSDK/FoodVisionAI-iOS) - Lightweight AI food vision & macro nutrition pipeline for iOS (SwiftUI + Apple HealthKit + Multimodal LLMs).
+- [Fud AI](https://github.com/apoorvdarshan/fud-ai) - iOS and Android calorie, macro and workout tracker that logs meals from photos, barcodes, text or a spoken conversation with your own AI key (Gemini, OpenAI, Claude and more). No account; logs stay on the phone.
 - [WonderFood](https://github.com/vaddisrinivas/wonderfood) - Local-first Android food workspace for inventory, recipes, meal planning, receipts, shopping, and reviewable AI proposals.
 - [DietCli](https://github.com/hstsethi/dietcli) - Blazingly fast, commmand line nutrition tracker written in C++.
 - [Waistline](https://github.com/davidhealey/waistline) - Rich Android app for calorie tracking with OpenFoodFacts integration and barcode scanning. CSV and JSON data export.
