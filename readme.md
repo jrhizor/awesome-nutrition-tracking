@@ -18,7 +18,6 @@ Free and paid nutrition trackers.
 
 - [Ampsu](https://ampsu.eu/) - Food diary with European barcode scanning and calorie targets that adjust from logged intake and weight trends.
 - [BetterMenu](https://bettermenu.live/) - Recipe nutrition analysis and FDA Nutrition Facts labels for food businesses, built on USDA FoodData Central with the math shown for every value. Connects to Claude and ChatGPT over MCP, so you can build recipes and labels from a chat.
-- [Bitesnap](https://www.getbitesnap.com/) - Image based food logging mobile app.
 - [CalDesk AI](https://caldeskai.com/) - AI-powered calorie and macro tracker with photo-based food logging and a free TDEE/macro calculator.
 - [Calory](https://calory.app/) - Simple mobile app for calorie tracking.
 - [CareClinic](https://careclinic.io/nutrition-tracker/) - Mobile app for meal, nutrition, symptom, and mood tracking.
@@ -48,6 +47,7 @@ Free and paid nutrition trackers.
 - [NutritionX](https://www.nutritionix.com/app) - Nutrition tracking mobile app.
 - [Olivka](https://olivka.app/) - Calorie and macro tracking over WhatsApp, Messenger, Telegram, and Instagram from a photo, voice note, or text. English and Polish.
 - [Oneizar](https://oneizar.com) - Free macro calculator for fat loss, muscle gain, and body recomposition; AI builds meals hitting your macro targets from your own food database.
+- [RecipeTool](https://recipetool.net/) - Free recipe nutrition calculator: add ingredients and get calories, protein, carbs, fat, fiber and sodium per serving from USDA FoodData Central, with no signup.
 - [Reset.com](https://www.reset.com/) - Makes intermittent fasting easy.
 - [Rex](https://www.rex.fit/) - Calorie and exercise tracking over WhatsApp.
 - [SavorAI](https://savorai.org/) - Full-featured calorie tracking mobile app with AI emphasis (photo, voice, or text logging) that tracks detailed nutrients with high accuracy.
@@ -110,6 +110,7 @@ Databases and apis that contain nutrition information.
 
 Articles or archived sites for defunct or unmaintained nutrition trackers.
 
+- [Bitesnap](https://web.archive.org/web/20191205193807/https://getbitesnap.com/) - Image based food logging mobile app.
 - [FitMeal](https://www.vice.com/en/article/53dz98/text-this-number-to-see-how-unhealthy-your-lunch-was)
 - [KaleKam](https://www.wxyz.com/news/kalekam-app-aims-to-turn-healthy-eating-into-social-game)
 - [MealByMeal](https://www.mealbymeal.com) - Easy calorie and macro tracking over SMS.
