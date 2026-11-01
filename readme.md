@@ -48,6 +48,7 @@ Free and paid nutrition trackers.
 - [Olivka](https://olivka.app/) - Calorie and macro tracking over WhatsApp, Messenger, Telegram, and Instagram from a photo, voice note, or text. English and Polish.
 - [Oneizar](https://oneizar.com) - Free macro calculator for fat loss, muscle gain, and body recomposition; AI builds meals hitting your macro targets from your own food database.
 - [RecipeTool](https://recipetool.net/) - Free recipe nutrition calculator: add ingredients and get calories, protein, carbs, fat, fiber and sodium per serving from USDA FoodData Central, with no signup.
+- [Remembite](https://remembite.com/) - Free food log that Claude or ChatGPT writes to over MCP: your AI works out grams and macros, Remembite saves the meal and asks you first when the numbers do not add up.
 - [Reset.com](https://www.reset.com/) - Makes intermittent fasting easy.
 - [Rex](https://www.rex.fit/) - Calorie and exercise tracking over WhatsApp.
 - [SavorAI](https://savorai.org/) - Full-featured calorie tracking mobile app with AI emphasis (photo, voice, or text logging) that tracks detailed nutrients with high accuracy.
