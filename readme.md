@@ -47,6 +47,7 @@ Free and paid nutrition trackers.
 - [NutritionX](https://www.nutritionix.com/app) - Nutrition tracking mobile app.
 - [Olivka](https://olivka.app/) - Calorie and macro tracking over WhatsApp, Messenger, Telegram, and Instagram from a photo, voice note, or text. English and Polish.
 - [Oneizar](https://oneizar.com) - Free macro calculator for fat loss, muscle gain, and body recomposition; AI builds meals hitting your macro targets from your own food database.
+- [Radish](https://nutri-track.fr/en/) - Free calorie counter for Android and iOS with optional paid extras, no account and no ads. Foods taken from a public composition table show which one (Ciqual, USDA FoodData Central and other national tables); computes the Nutri-Score; barcode lookup through Open Food Facts. 7 languages.
 - [RecipeTool](https://recipetool.net/) - Free recipe nutrition calculator: add ingredients and get calories, protein, carbs, fat, fiber and sodium per serving from USDA FoodData Central, with no signup.
 - [Remembite](https://remembite.com/) - Free food log that Claude or ChatGPT writes to over MCP: your AI works out grams and macros, Remembite saves the meal and asks you first when the numbers do not add up.
 - [Reset.com](https://www.reset.com/) - Makes intermittent fasting easy.
