@@ -106,6 +106,7 @@ Databases and apis that contain nutrition information.
 - [India Label Index](https://huggingface.co/datasets/devnarsinghani/india-label-index) - Category level tables built from Indian packaged foods on Open Food Facts, no brands named. Covers added sugar names in 3,798 ingredient lists, which fat 2,015 lists name (palm oil and others), and front‑of‑pack warning simulations. CSV and JSON, ODbL, free download with no login.
 - [BetterMenu US Food Search](https://bettermenu.live/tools/ingredient-search/us/foods/) - Free search of 13,259 USDA foods and 455,458 branded products from FoodData Central. Every food shows nutrition facts and %DV per serving, rounded the way an FDA label rounds them, with the math shown. No login.
 - [Mealary](https://www.mealary.com/) - Recipe nutrition analysis and FDA Nutrition Facts panels from more than 7,800 USDA FoodData Central foods, with a JSON API and MCP server for AI agents.
+- [Pasta Database](https://pastadatabase.com/nutrition) - Nutrition per 100 g for dry, cooked, fresh, whole wheat, egg, legume and other pasta doughs, each row tied to its USDA FoodData Central ID, plus cook times and dimensions for each shape.
 
 
 ## Defunct
