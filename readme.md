@@ -19,6 +19,7 @@ Free and paid nutrition trackers.
 - [Ampsu](https://ampsu.eu/) - Food diary with European barcode scanning and calorie targets that adjust from logged intake and weight trends.
 - [BetterMenu](https://bettermenu.live/) - Recipe nutrition analysis and FDA Nutrition Facts labels for food businesses, built on USDA FoodData Central with the math shown for every value. Connects to Claude and ChatGPT over MCP, so you can build recipes and labels from a chat.
 - [CalDesk AI](https://caldeskai.com/) - AI-powered calorie and macro tracker with photo-based food logging and a free TDEE/macro calculator.
+- [CalorieCodex](https://caloriecodex.macrocodex.app/) - Completely free, ad-free Android calorie and macro tracker with AI photo, voice, and chat logging, barcode and nutrition-label scanning, and bring-your-own-key (BYOK) AI integration.
 - [Calory](https://calory.app/) - Simple mobile app for calorie tracking.
 - [CareClinic](https://careclinic.io/nutrition-tracker/) - Mobile app for meal, nutrition, symptom, and mood tracking.
 - [Cronometer](https://cronometer.com/) - Food and activity tracker mobile app.
@@ -34,6 +35,7 @@ Free and paid nutrition trackers.
 - [LifeSum](https://lifesum.com/) - Calorie tracking mobile app that focuses on lifestyle changes.
 - [Lolo](https://apps.apple.com/us/app/lolo-ai-food-calorie-tracker/id6448986851?l=en) - AI food and calorie tracker.
 - [Lose It](https://www.loseit.com/) - Calorie and macro tracking mobile app.
+- [MacroCodex](https://macrocodex.app/) - Completely free, ad-free alternative to MacroFactor for Android and web, combining a state-space neural network for adaptive TDEE tracking with diet coaching and automatic calorie and macro targets based on intake and weight trends.
 - [MacroFactor](https://macrofactorapp.com/) - Adaptive mobile app for nutrition tracking.
 - [meals.chat](https://meals.chat/) - Take photos to track meals over Telegram.
 - [MealThinker](https://mealthinker.com) - AI meal planner that remembers your preferences, dietary needs, and kitchen inventory to suggest personalized meals.
@@ -56,6 +58,7 @@ Free and paid nutrition trackers.
 - [SavorAI](https://savorai.org/) - Full-featured calorie tracking mobile app with AI emphasis (photo, voice, or text logging) that tracks detailed nutrients with high accuracy.
 - [SnackFolio](https://www.snackfolio.com/) - Simple calorie and macro tracker with offline support.
 - [SnapCalorie](https://www.snapcalorie.com/) - Photo-based nutrition mobile app.
+- [Symbiote](https://symbiote.macrocodex.app/) - Completely free, ad-free Android alternative to MacroFactor Workouts with fully programmable routines, LiftLang scripting, Smart Progression for weight and rep recommendations, and offline workout logging.
 - [Tastetrace](https://tastetrace.netlify.app/) - Food & symptom tracker that finds trigger patterns after ~2 weeks. Ingredient-level logging, built by someone who struggled with journals.
 - [TidyCalcs](https://www.tidycalcs.com/) - Free BMI and calorie/TDEE calculators, no signup required.
 - [Track Calories](https://track-calories.com/) - AI-based calorie tracking mobile app.
