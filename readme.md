@@ -38,6 +38,7 @@ Free and paid nutrition trackers.
 - [meals.chat](https://meals.chat/) - Take photos to track meals over Telegram.
 - [MealThinker](https://mealthinker.com) - AI meal planner that remembers your preferences, dietary needs, and kitchen inventory to suggest personalized meals.
 - [Mealyno](https://www.mealyno.com/en) - AI meal planner and calorie tracker: 7-day meal plans for your calorie target, photo and barcode logging, and free TDEE, BMR, macro and protein calculators with no signup. English and Ukrainian.
+- [metri](https://metri-diary.com/?utm_source=awesome-nutrition-tracking&utm_medium=directory) - Calorie and macro diary inside Claude and ChatGPT: log meals from a photo, nutrition label, voice or text, set daily goals, and see today's progress in a widget.
 - [MyFitnessPal](https://www.myfitnesspal.com/) - Most popular calorie tracking app.
 - [NadY](https://apps.apple.com/us/app/nady-ai-calorie-photo-track/id6740164035) - AI-powered photo calorie counter & macro tracker with Bento UI, intermittent fasting timer, and Apple HealthKit integration.
 - [MyNetDiary](https://www.mynetdiary.com/) - Mobile app for calorie tracking.
