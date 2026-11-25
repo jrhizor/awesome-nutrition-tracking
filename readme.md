@@ -26,6 +26,7 @@ Free and paid nutrition trackers.
 - [Daily Dozen](https://nutritionfacts.org/daily-dozen/) - Plant-based food group tracker based on Dr. Greger's daily nutrition recommendations.
 - [Dayhack](https://dayhack.app/) - Free journal for meals, workouts, sleep and urges, with no account. On Android, calories and macros per 100 g from the Ciqual table (offline) and barcode lookup through Open Food Facts.
 - [FatSecret](https://apps.apple.com/us/app/calorie-counter-by-fatsecret/id347184248) - Calorie tracker mobile app.
+- [FitFoodie](https://fitfoodie.cressu.com/) - AI calorie tracker for iPhone and Android that turns a photo, barcode or text description into calories and macros, with weight tracking. Free with Premium.
 - [FitNomoBot](https://t.me/Fitnomobot) - Free calorie tracker over Telegram and MAX that also estimates 26 micronutrients, scans barcodes, and credits logged workouts back to the daily budget.
 - [Foodvisor](https://www.foodvisor.io/en/) - Nutrition tracking mobile app.
 - [Forks Over Knives Meal Planner](https://www.forksoverknives.com/meal-planner/) - Whole-food, plant-based meal planning with recipes, grocery lists, and nutritional information.
