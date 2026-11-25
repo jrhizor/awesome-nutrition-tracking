@@ -63,6 +63,7 @@ Free and paid nutrition trackers.
 - [Tract](https://tract.health) - AI gut-health coach with food, symptom, and bowel-movement tracking for IBD, IBS, and elimination diets.
 - [Ultre](https://ultre.ai/) - Health tracking mobile app.
 - [Veganify](https://veganify.app/) - Barcode scanner that checks whether products are vegan by analyzing ingredients.
+- [WIMSTA](https://wimsta.com/) - Free, ad-free food diary that works without an account, with body-fat, BMR and TDEE calculators that show the range across published formulas.
 
 
 ## Open Source Tools
