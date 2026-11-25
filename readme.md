@@ -35,6 +35,7 @@ Free and paid nutrition trackers.
 - [Lolo](https://apps.apple.com/us/app/lolo-ai-food-calorie-tracker/id6448986851?l=en) - AI food and calorie tracker.
 - [Lose It](https://www.loseit.com/) - Calorie and macro tracking mobile app.
 - [MacroFactor](https://macrofactorapp.com/) - Adaptive mobile app for nutrition tracking.
+- [MacroScout](https://health.dailyappslab.com/macroscout/) - Calorie and macro tracker for iPhone and Android with AI photo logging and a restaurant menu scanner that ranks dishes by what you have left today.
 - [meals.chat](https://meals.chat/) - Take photos to track meals over Telegram.
 - [MealThinker](https://mealthinker.com) - AI meal planner that remembers your preferences, dietary needs, and kitchen inventory to suggest personalized meals.
 - [Mealyno](https://www.mealyno.com/en) - AI meal planner and calorie tracker: 7-day meal plans for your calorie target, photo and barcode logging, and free TDEE, BMR, macro and protein calculators with no signup. English and Ukrainian.
