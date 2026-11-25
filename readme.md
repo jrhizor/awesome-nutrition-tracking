@@ -29,6 +29,7 @@ Free and paid nutrition trackers.
 - [FitNomoBot](https://t.me/Fitnomobot) - Free calorie tracker over Telegram and MAX that also estimates 26 micronutrients, scans barcodes, and credits logged workouts back to the daily budget.
 - [Foodvisor](https://www.foodvisor.io/en/) - Nutrition tracking mobile app.
 - [Forks Over Knives Meal Planner](https://www.forksoverknives.com/meal-planner/) - Whole-food, plant-based meal planning with recipes, grocery lists, and nutritional information.
+- [GLP-1 Companion](https://apps.apple.com/us/app/glp-1-companion-shot-tracker/id6791031500) - iPhone log for people on GLP-1 medication: protein and fiber without calorie counting, plus weekly shots, side effects and weight. Free to start, no account.
 - [Gluten](https://gluten.ai/) - Free family meal planner for tables with several food restrictions at once (celiac, AIP, allergies, pregnancy, toddlers): one dinner a night, a swap per person, and every ingredient checked against each person. iPhone, Android and web.
 - [Healify](https://healify.ai/) - Free AI health coach for iPhone and Android that logs meals, reads health data, and answers health questions.
 - [LifeSum](https://lifesum.com/) - Calorie tracking mobile app that focuses on lifestyle changes.
